@@ -5,15 +5,11 @@
  */
 
 body {
-  background: url("https://image.ibb.co/gKX5nw/background.jpg") no-repeat center center fixed;
+  background: url("https://image.ibb.co/fDk70G/razas.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
   
-};
-
-section{
-  content: "\f102";
 }
 
